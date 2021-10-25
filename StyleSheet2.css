@@ -1,0 +1,20 @@
+﻿body {
+    background-image: 
+}
+
+.input-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 500px;
+    background: #C656FF;
+}
+
+input {
+    margin: 0 0.5 0 0.5;
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: mediumpurple;
+}
+
